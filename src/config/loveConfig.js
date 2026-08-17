@@ -6,7 +6,7 @@ export const loveConfig = {
   specialDate: "19 • 06 • 2026", // Displayed under the heart collage in Section 9
 
   // Section 1: Secret Intro
-  introTitle: "Hey you... ❤️",
+  introTitle: "Hey you... 🤍",
   introSub: "I made something just for you.",
   introQuestion: "Are you ready?",
   introButton: "Open it ♥",
@@ -14,14 +14,14 @@ export const loveConfig = {
   // Section 2: Personal Welcome
   welcomeTitle: "Before you continue...",
   welcomeText: "This little website was made for one very special person.",
-  welcomeConfirm: "And yes... that's you. ❤️",
+  welcomeConfirm: "And yes... that's you. 🤍",
   welcomeButton: "Continue →",
 
   // Section 3: Secret Passcode
   passcodeTitle: "Only one person can unlock this...",
-  passcodeSubtitle: "Enter the secret passcode ❤️",
+  passcodeSubtitle: "Enter the secret passcode 🤍",
   passcodeError: "Oops... that's not our secret 🤭",
-  passcodeSuccess: "Unlocked! ❤️",
+  passcodeSuccess: "Unlocked! 🤍",
 
   // Section 4: The Question
   questionTitle: "I made something for you...",
@@ -62,7 +62,7 @@ export const loveConfig = {
 
   // Section 7: Our Story
   storyTitle: "MY WISH FOR YOU ",
-  storyText: "Wishing you a wonderful day filled with joy, laughter, and love. May this special day bring you cverything you've been hoping for and more. I hope the year ahcad is full of success, peace, and beautiful moments that malic you smile every single day.",
+  storyText: "Wishing you a wonderful day filled with joy, laughter, and love. May this special day bring you everything you've been hoping for and more. I hope the year ahead is full of success, peace, and beautiful moments that make you smile every single day.",
   storyTimeline: [
     { date: "Day One", title: "How we met 🗺️", desc: "A simple hello that changed everything." },
     { date: "A Bit Later", title: "The realization ✨", desc: "When I realized you were truly special." },
